@@ -1,0 +1,162 @@
+[
+	{
+		"Title":"American History X",
+		"Year":1998,
+		"Genre":[
+			"Crime",
+			"Drama"
+		],
+		"Synopsis":"A former neo Nazi tries to protect his brother from walking the same dark path.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/americanhistoryx1998.jpeg"
+	},
+	{
+		"Title":"American Psycho",
+		"Year":2000,
+		"Genre":[
+			"Satire",
+			"Horror"
+		],
+		"Synopsis":"A Wall Street yuppie tries to hide his psychopathic bloodlust from his acquaintances.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/americanpsycho2000.jpg"
+	},
+	{
+		"Title":"Batman Gotham Knight",
+		"Year":2008,
+		"Genre":[
+			"Superhero"
+		],
+		"Synopsis":"Bruce Wayne transforms from tormented crime fighter to heroic icon of Gotham City.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/batmangothamknight2008.jpg"
+	},
+	{
+		"Title":"Blazing Saddles",
+		"Year":1974,
+		"Genre":[
+			"Western",
+			"Black Comedy"
+		],
+		"Synopsis":"A corrupt sheriff hires an African-American to drive away residents of a small town.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/blazingsaddles1974.jpg"
+	},
+	{
+		"Title":"Layer Cake",
+		"Year":2004,
+		"Genre":[
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"Synopsis":"A drug dealer must rescue the daughter of a trade magnate while retrieving a drug loot.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/layercake2004.jpeg"
+	},
+	{
+		"Title":"Memento",
+		"Year":2000,
+		"Genre":[
+			"Thriller"
+		],
+		"Synopsis":"A man suffering from anterograde amnesia tries to find his wife's killer using notes and tattoos.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/memento2000.jpg"
+	},
+	{
+		"Title":"Psycho",
+		"Year":1960,
+		"Genre":[
+			"Psychological",
+			"Horror"
+		],
+		"Synopsis":"A woman disappears after stealing money from her employer.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/psycho1960.jpg"
+	},
+	{
+		"Title":"Requiem for a Dream",
+		"Year":2000,
+		"Genre":[
+			"Psychological",
+			"Drama"
+		],
+		"Synopsis":"A retired widow gets addicted to medication intended for weight loss.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/requiemforadream2000.jpg"
+	},
+	{
+		"Title":"Return of the Jedi",
+		"Year":1983,
+		"Genre":[
+			"Space",
+			"Fantasy"
+		],
+		"Synopsis":"Luke Skywalker attempts to defeat Emperor Palpatine and redeem the Sith Lord Darth Vader.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/returnofthejedi1983.jpg"
+	},
+	{
+		"Title":"Shaun of the Dead",
+		"Year":2004,
+		"Genre":[
+			"Horror",
+			"Comedy"
+		],
+		"Synopsis":"An aimless salesman and his friends are forced fight their way out of a zombie apocalypse.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/shaunofthedead2004.jpg"
+	},
+	{
+		"Title":"Star Wars",
+		"Year":1977,
+		"Genre":[
+			"Space",
+			"Fantasy"
+		],
+		"Synopsis":"A young man sets off on a journey with a Jedi Knight to save the galaxy from the Galactic Empire.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/starwars1977.jpg"
+	},
+	{
+		"Title":"Superman",
+		"Year":1978,
+		"Genre":[
+			"Superhero"
+		],
+		"Synopsis":"Clark Kent, the son of a Krypton scientist, fights for Truth, Justice and the American Way.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/superman1978.jpg"
+	},
+	{
+		"Title":"The Empire Strikes Back",
+		"Year":1980,
+		"Genre":[
+			"Space",
+			"Fantasy"
+		],
+		"Synopsis":"As Princess Leia fights the Empire, Luke Skywalker must master the Force and become a Jedi warrior.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/empirestrikesback1980.jpg"
+	},
+	{
+		"Title":"The Gentlemen",
+		"Year":2019,
+		"Genre":[
+			"Action",
+			"Crime"
+		],
+		"Synopsis":"A cannabis mogul tries to sell his empire but stimulates an array of wrongdoings in the name of greed.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/gentlemen2019.jpg"
+	},
+	{
+		"Title":"The Last Samurai",
+		"Year":2003,
+		"Genre":[
+			"Period",
+			"Action",
+			"Drama"
+		],
+		"Synopsis":"A US army veteran in the 19th centure is hired by the Japanese emperor to train his army in modern warfare.",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/lastsamurai2003.jpg"
+	},
+	{
+		"Title":"Weird - The Al Yankovic Story",
+		"Year":2022,
+		"Genre":[
+			"Biopic",
+			"Musical",
+			"Parody"
+		],
+		"Synopsis":"The unexaggerated, totally not fabricated true account (no, really) of the rise of Weird Al Yankovic",
+		"Poster":"https://yrapisa1.blob.core.windows.net/movieposters/weirdalyankovic2022.jpg"
+	}
+]
